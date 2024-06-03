@@ -1,6 +1,5 @@
-# project_f6k1b_h8w6k_y8l1w
+# Academic Project for CPSC 304:
 
-Our project is a soccer league management database.
-All previous Milestones are available in the repo.
-Also a timeline for further work is also available.
+This is a group project about a soccer league management database.
+The design and planning of the project (including a timeline for further work) are laid out in Milestones, available in the repo.
 A backend and frontend have been created for this project. To get started, run SoccerLeague.php file.
